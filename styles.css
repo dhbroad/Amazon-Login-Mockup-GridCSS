@@ -186,3 +186,12 @@ margin-bottom:15px;
   .create-account input:hover{
     background:linear-gradient(rgb(226, 226, 226),rgb(212, 212, 212));
   } 
+
+.note h2{
+  width:450px;
+  text-align:center;
+  display:block;
+  margin-left:auto;
+  margin-right:auto;
+  margin-bottom:-15px;
+}
