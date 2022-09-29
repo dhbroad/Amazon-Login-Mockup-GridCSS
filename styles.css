@@ -1,4 +1,4 @@
-.amazon-logo img{
+.amz-logo img{
     width:140px;
     display:block;
     margin-left:auto;
@@ -18,7 +18,7 @@
       "sign-in-button sign-in-button"
       "terms-and-services terms-and-services"
       "stay-signed-in stay-signed-in"
-      "new-to-amazon new-to-amazon"
+      "new-to-amz new-to-amz"
       "create-account create-account";
       border:2px solid rgba(211, 211, 211, 0.589);
       border-radius:6px;
@@ -159,7 +159,7 @@
         visibility: visible;
       }
   
-  .new-to-amazon { grid-area: new-to-amazon;
+  .new-to-amz { grid-area: new-to-amz;
 display:flex;
 width:100%;
 flex-direction:row;
@@ -167,7 +167,7 @@ justify-items:center;
 color:rgb(151, 151, 151);
 margin-bottom:15px;
   }
-  .new-to-amazon hr{
+  .new-to-amz hr{
       width:23%;
       height:1px;
       border:none;
